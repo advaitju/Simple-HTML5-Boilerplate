@@ -9,7 +9,7 @@ It should cover most of your needs if you often need to quickly hack together a 
 ## Dependencies / Tech
 Most dependencies have been added via CDNs to keep things simple.
 1. FontAwesome
-2. Bootstrap
+2. Bootstrap 3
 3. jQuery
 
 ## Contributions!
