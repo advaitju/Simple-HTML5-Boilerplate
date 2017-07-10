@@ -7,3 +7,15 @@
 	// 5. Page specific sections
 	// 6. Helper CSS style applicators
 	// 7. Media queries
+
+body {
+	background-color: antiquewhite;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+.page-wrapper {
+	display: none;
+}
