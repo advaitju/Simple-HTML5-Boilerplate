@@ -13,4 +13,4 @@ Most dependencies have been added via CDNs to keep things simple.
 3. jQuery
 
 ## Contributions!
-Feel free to send PRs, fixes or contact me about ideas. Just KISS (keep it simple stupid) :)
+Feel free to send PRs, fixes or contact me about ideas.
